@@ -18,7 +18,7 @@ YAZAR | AUTHOR
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 Hakkımda / About Me
 
 Merhaba ben **Efe Kaan Ceylan**. Yazılım geliştirici ve öğrenmeye açık bir öğrenciyim. Yazılımdaki temel bilgilere sahibim. Ayrıca kitap yazıyorum. 
 
@@ -26,7 +26,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 ---
 
-## 👀 Ziyaretçi Sayısı
+## 👀 Ziyaretçi Sayısı / Number Of Visitor
 
 <p align="center">
   <img src="https://count.getloli.com/@efekaanc2009?name=efekaanc2009&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
@@ -35,7 +35,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim / My Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" />
@@ -45,7 +45,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 ---
 
-## 🌍 Diller
+## 🌍 Diller / Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
@@ -58,7 +58,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 ---
 
-## 🛠 Kullandığım Programlar
+## 🛠 Kullandığım Programlar / Programs I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50"/>
@@ -82,15 +82,15 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 ---
 
 
-## 📂 Projelerim
+## 📂 Projelerim / My Projects
 
 <details open>
   <summary><b>📂 Proje Listesini Gör / View Projects</b></summary>
   <br/>
 
   <blockquote>
-    <h4>🔹 VSCodeDevPack</h4>
-    <p>Visual Studio Code geliştirme paketi projesi. / VS Code development pack project.</p>
+    <h4>My First Web Sites</h4>
+    <p>Bir kuruyemiş satış sitesi</p>
     <a href="https://github.com/efekaanc2009/ilk-sitem"><b>[ Projeyi Görüntüle ]</b></a>
   </blockquote>
 
@@ -100,7 +100,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 ---
 
-## 🇹🇷
+## THE FATHER OF THE TURKS
 
 <div style="background-color:white; padding:30px; border-radius:15px;">
 
@@ -111,7 +111,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 </b>
 
 <p align="right" style="color:white;">
-Mustafa Kemal Atatürk
+  <b>Mustafa Kemal Atatürk </b>
 </p>
 
 <p align="right">
