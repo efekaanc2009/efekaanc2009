@@ -73,19 +73,19 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 ## 📂 Projelerim
 
-<details>
-  <summary>Projeleri Görmek İçin Tıkla</summary>
+<details open>
+  <summary><b>📂 Proje Listesini Gör / View Projects</b></summary>
+  <br/>
 
-  ### 📁 Proje 1
-  Açıklama buraya
+  <blockquote>
+    <h4>🔹 VSCodeDevPack</h4>
+    <p>Visual Studio Code geliştirme paketi projesi. / VS Code development pack project.</p>
+    <a href="https://github.com/efekaanc2009/ilk-sitem"><b>[ Projeyi Görüntüle ]</b></a>
+  </blockquote>
 
-  ### 📁 Proje 2
-  Açıklama buraya
-
-  ### 📁 Proje 3
-  Açıklama buraya
-
-</details>
+   
+  
+  </details>
 
 ---
 
