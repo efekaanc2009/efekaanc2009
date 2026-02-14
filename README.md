@@ -11,18 +11,18 @@
 ---
 
 <h3 align="center">
-YAZILIM GELİŞTİRİCİYİM | KENDİMİ GELİŞTİRİYORUM  
-<br>
-🚀 I'M A SOFTWARE DEVELOPER | IMPROVING MYSELF
+YAZILIM GELİŞTİRİCİ | SOFTWARE DEVELOPER 
+<hr>
+YAZAR | AUTHOR
 </h3>
 
 ---
 
 ## 👨‍💻 Hakkımda
 
-Merhaba ben **Efe Kaan Ceylan**. Yazılım geliştirici ve öğrenmeye açık bir öğrenciyim. Yazılımdaki temel bilgilere sahibim.  
+Merhaba ben **Efe Kaan Ceylan**. Yazılım geliştirici ve öğrenmeye açık bir öğrenciyim. Yazılımdaki temel bilgilere sahibim. Ayrıca kitap yazıyorum. 
 
-Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student eager to learn. I have a basic understanding of software development.
+Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student eager to learn. I have a basic understanding of software development. I also write books.
 
 ---
 
@@ -69,7 +69,18 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50"/>
 </p>
 
+
 ---
+
+## 🎯 Hobiler | Hobbies
+
+- 🎬 Dizi izlemek / Watching series  
+- ✍️ Kitap yazmak / Writing books  
+- 📚 Kendimi geliştirmek / Self-improvement  
+- ⚽ Futbol maçı izlemek / Watching football matches  
+
+---
+
 
 ## 📂 Projelerim
 
