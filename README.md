@@ -102,7 +102,7 @@ Mustafa Kemal Atatürk
 </p>
 
 <p align="right">
-  <img src="https://resimyukle.org/a/6Hj8WFhW" height="60">
+  <img src="/ataturk-imza.png" height="60">
 </p>
 
 <p align="right">
