@@ -93,16 +93,14 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 <div style="background-color:white; padding:30px; border-radius:15px;">
 
-<p align="center" style="color:black; font-style:italic; font-size:20px;">
+<b> <i><p align="center" style="color:black; font-style:italic; font-size:20px;">
 "Ey yükselen yeni nesil! İstikbal sizsiniz. Cumhuriyeti biz kurduk, onu ila ve idame edecek sizsiniz."
 </p>
+</i>
+</b>
 
 <p align="right" style="color:white;">
 Mustafa Kemal Atatürk
-</p>
-
-<p align="right">
-  <img src="/ataturk-imza.png" height="60">
 </p>
 
 <p align="right">
