@@ -29,8 +29,9 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 ## 👀 Ziyaretçi Sayısı
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://count.getloli.com/@efekaanc2009?name=efekaanc2009&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
+
 
 ---
 
