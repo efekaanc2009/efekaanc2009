@@ -38,8 +38,6 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 ## 📊 GitHub İstatistiklerim / My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight" />
 </p>
 
