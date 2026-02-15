@@ -98,7 +98,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 
 ---
  
-## TÜRKLERİN BABASI / THE FATHER OF THE TURKS
+## TÜRK'lerin Babası / The Father Of The TURKS
 
 <div style="background-color:white; padding:30px; border-radius:15px;">
 
