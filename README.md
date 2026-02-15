@@ -103,7 +103,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 <div style="background-color:white; padding:30px; border-radius:15px;">
 
 <b> <i><p align="center" style="color:black; font-style:italic; font-size:20px;">
-"Ey Türk Gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet, muhafaza ve müdafaa etmektir."
+"Benim naçiz vücudum elbet bir gün toprak olacaktır, ancak Türkiye Cumhuriyeti ilelebet payidar kalacaktır."
 </p>
 </i>
 </b>
