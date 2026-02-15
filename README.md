@@ -103,7 +103,7 @@ Hello, my name is **Efe Kaan Ceylan**. I am a software developer and a student e
 <div style="background-color:white; padding:30px; border-radius:15px;">
 
 <b> <i><p align="center" style="color:black; font-style:italic; font-size:20px;">
-"Ey yükselen yeni nesil! İstikbal sizsiniz. Cumhuriyeti biz kurduk, onu ila ve idame edecek sizsiniz."
+"Ey Türk Gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet, muhafaza ve müdafaa etmektir."
 </p>
 </i>
 </b>
